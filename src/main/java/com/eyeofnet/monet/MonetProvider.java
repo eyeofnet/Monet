@@ -248,7 +248,7 @@ class MonetProvider extends ComponentProvider implements OptionsChangeListener {
 		// TODO: Customize help (or remove if help is not desired)
         // HelpLocation.buildURL is broken - it needs to create relative paths, not just absolute paths.
         // For now, we just comment the help out...
-		topicName = "monet";
+		// topicName = "monet";
 		
 		//String anchorName = "HelpAnchor";
 		//help = new HelpLocation(topicName, anchorName);
