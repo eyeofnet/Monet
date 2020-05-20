@@ -11,3 +11,10 @@ You should then be able to select a function in the CodeBrowser and run the `Gra
 
 Note that after running the `GraphAST.java` script, you may have to manually open the Monet window by selecting the `Window -> MonetPlugin` option from the CodeBrowser menu.
 
+Monet uses the JUNG library for graphics with the default mouse handler:
+* Left mouse drag to pan
+* Left mouse drag + shift for rotation
+* Left mouse drag + ctrl for shear effect
+* Scroll wheel to zoom
+
+
